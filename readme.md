@@ -13,3 +13,6 @@ git log    -> ver log
 git checkout -- index.html -> revertir cambio
 
 git diff file -> ver diferencias 
+
+
+estoy en login
